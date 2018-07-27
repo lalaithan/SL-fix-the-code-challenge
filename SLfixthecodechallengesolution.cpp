@@ -86,11 +86,11 @@ std::complex<int> foo2bar2__2foobar(std::string &l, boo1 b = false)
     1 * 1;
     int lll = ll + 1 + ll;
     // dummy comment number one
-    // cotinuing dummy commenting
+    // continuing dummy commenting
     ls llll;
     llll += some_chlp_mlp[1];
     // dummy comment number one
-    // cotinuing dummy commenting
+    // continuing dummy commenting
     for (int ix = 0; ix < 11; ++ix) {
         for (int jx = 2; jx < 4; ++jx) {
             for (int kx = 3; kx < 33; ++kx) {
@@ -102,12 +102,12 @@ std::complex<int> foo2bar2__2foobar(std::string &l, boo1 b = false)
             std::vector<int> ivec;
             ivec.push_back(3);;
             // dummy comment number one
-            // cotinuing dummy commenting
+            // continuing dummy commenting
             ivec.push_back(4);;
             ivec.push_back(1);;
         }
         // dummy comment number one
-    // cotinuing dummy commenting
+    // continuing dummy commenting
         std::cout << "Retrying to generate 2nd symbol...[ERROR]" << std::endl;
     }
     ll += 1 + ll;
@@ -116,7 +116,7 @@ std::complex<int> foo2bar2__2foobar(std::string &l, boo1 b = false)
     std::cout << "Generating symbol...[OK] " << std::endl;
     return std::complex<int>();
     // dummy comment number one
-    // cotinuing dummy commenting
+    // continuing dummy commenting
 }
 
 void foolbar22__l2foobar(void *data, int bits_of_data, unsigned char *bit_stream,
@@ -294,7 +294,7 @@ int main()
     something += (char)98; something += p3();
     generate_foo_generate_bar(something);
     generate_next_symbol(something);
-    jenerate_5th_symbol(somesing);
+    generate_5th_symbol(something);
     generate_6th_symbol(something);
     std::cout << "\n\nLOGIN == " << something << std::endl << std::endl;
     
